@@ -1,15 +1,15 @@
 .gameplan-jumbotron {
   background-color: $primary-background;
-  min-height: 400px;
-/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#333333+0,222222+64,000000+100 */
-background: #191919; /* Old browsers */
-background: -moz-linear-gradient(top,  #191919 0%, #111 54%, #000000 100%); /* FF3.6-15 */
-background: -webkit-linear-gradient(top,  #191919 0%,#111 54%,#000000 100%); /* Chrome10-25,Safari5.1-6 */
-background: linear-gradient(to bottom,  #191919 0%,#111 54%,#000000 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#191919', endColorstr='#000000',GradientType=0 ); /* IE6-9 */
+  min-height: 4100px;
+  background: #191919; /* Old browsers */
+  background: -moz-linear-gradient(top,  #191919 0%, #111 54%, #000000 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(top,  #191919 0%,#111 54%,#000000 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom,  #191919 0%,#111 54%,#000000 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#191919', endColorstr='#000000',GradientType=0 ); /* IE6-9 */
 
 
   .gameplan-jumbotron-logo {
+    margin-top: 100px;
     color: #fff;
     font-size: 80px;
     line-height: 90px;
