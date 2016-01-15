@@ -12,6 +12,14 @@
   /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#191919', endColorstr='#000000',GradientType=0 );
   /* IE6-9 */ }
+  .gameplan-jumbotron .gameplan-jumbotron-logo {
+    color: #fff;
+    font-size: 80px;
+    line-height: 90px; }
+  .gameplan-jumbotron .gameplan-jumbotron-slogan {
+    color: #fff;
+    font-size: 30px;
+    line-height: 40px; }
 
 .gameplan-navigation a.mdl-navigation__link {
   color: #eee; }
