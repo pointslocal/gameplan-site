@@ -1,5 +1,9 @@
 .gameplan-jumbotron {
-  background-color: #111; }
+  background-color: #111;
+  min-height: 200px; }
+
+.gameplan-navigation a.mdl-navigation__link {
+  color: #eee; }
 
 .mdl-layout__header {
   background-color: #111; }

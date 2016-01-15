@@ -1,3 +1,10 @@
 .gameplan-jumbotron {
   background-color: $primary-background;
+  min-height: 200px;
+}
+
+.gameplan-navigation {
+  a.mdl-navigation__link {
+    color: $primary_foreground;
+  }
 }
