@@ -31,7 +31,13 @@
   width: 1200px;
   margin: auto; }
 
+* {
+  font-family: 'Open Sans',Helvetica,arial; }
+
 .mdl-layout__header {
   background-color: #191919; }
+
+.mdl-navigation__link {
+  font-weight: 600; }
 
 /*# sourceMappingURL=style.css.map */
